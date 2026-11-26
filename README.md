@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="<img width="1280" height="640" alt="image (2)" src="https://github.com/user-attachments/assets/efb848b2-95cd-4f3a-90e8-658eb52b2082" />
-" alt="NSI - Network Security Insight" width="720">
+
 </p>
 
 # NSI — Network Security Insight  `v1.3`
